@@ -45,3 +45,17 @@ https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/6a51
 
 
 
+
+After completing the tests, to generate a report call 
+
+```bash
+  mvn allure:report
+```
+Example report: 
+
+![image](https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/8df628bc-44ab-46cf-b57f-b649bd6430dd)
+
+
+
+
+
