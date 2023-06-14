@@ -57,8 +57,8 @@ After completing the tests, to generate a report call
 ```
 Example report: 
 
-![image](https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/8df628bc-44ab-46cf-b57f-b649bd6430dd)
 
+![report](https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/fe2bad43-aa3c-43f3-b181-e4faabb28dc6)
 
 
 
