@@ -41,7 +41,11 @@ Creation of a simple test report in the directory of the \target\surefire-report
 
 
 
-https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/6a51d8f2-4052-4e99-bc77-4ca6fb9a3eec
+
+
+https://github.com/matkub0/SeleniumAutomationTestFramework/assets/109211934/e3177fee-d223-41bf-ac8b-bec69d124569
+
+
 
 
 
